@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+pandas
+protobuf
+scikit-learn
+sentencepiece
+torch
+transformers
+tqdm

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+dataset.csv
+mt5_zoomer_baseline_manual/
+*.pt
